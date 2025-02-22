@@ -12,7 +12,7 @@ const version = require("@whiskeysockets/baileys/package.json").version
 // contoh ['1','2','3']
 // ['1','2','3','4']
 global.botname = "Clairity Bot"
-global.ownerNumber = [`6289656277900`,'no2','no3'] // no owner yang dapat mengakses all fitur
+global.ownerNumber = [`6289656277900`,'60135784495','no3'] // no owner yang dapat mengakses all fitur
 global.email = '@gmail.com' // kosongkan jika tidak punya
 global.web = '.com' // kosongkan jika tidak punya
 global.location = 'Banten' // isi daerah mu atau tempat tinggal mu jika tidak mau kosongkan
